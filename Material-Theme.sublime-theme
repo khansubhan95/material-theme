@@ -541,7 +541,8 @@
     {
       "class": "sidebar_container",
       "content_margin": [0, 12, 0, 0],
-      "layer0.tint": [38, 50, 56],
+      // "layer0.tint": [38, 50, 56],
+      "layer0.tint": [27, 37, 41],
       "layer0.opacity": 1.0,
       "layer0.draw_center": false,
       "layer0.inner_margin": [0, 24, 12, 24],
@@ -554,7 +555,8 @@
       "indent": 16,
       "indent_offset": 0,
       "indent_top_level": false,
-      "layer0.tint": [38, 50, 56],
+      // "layer0.tint": [38, 50, 56],
+      "layer0.tint": [27, 37, 41],
       "layer0.opacity": 1.0,
       "layer1.tint": [0,0,0],
       "layer1.opacity": 0.0
